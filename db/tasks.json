@@ -2,12 +2,12 @@
   {
     "id": "e37fb9f4-6833-4cde-914e-c0dc96e4bd2d",
     "title": "Task a",
-    "completed": true
+    "completed": false
   },
   {
     "id": "62cb2f87-4913-4565-944a-929e26aa1cd2",
     "title": "Task b",
-    "completed": true
+    "completed": false
   },
   {
     "id": "f59157fd-62a7-414a-8eb0-4af6c448bb8e",
@@ -22,6 +22,6 @@
   {
     "id": "cf083616-a209-4d4e-9c93-042086b0c5c7",
     "title": "Task e",
-    "completed": true
+    "completed": false
   }
 ]
